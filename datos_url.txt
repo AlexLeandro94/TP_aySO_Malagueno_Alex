@@ -1,0 +1,2 @@
+HOME_URL="https://www.ubuntu.com/"
+PRIVACY_POLICY_URL="https://www.ubuntu.com/legal/terms-and-policies/privacy-policy"
